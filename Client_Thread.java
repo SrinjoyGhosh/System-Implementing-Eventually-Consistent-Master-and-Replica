@@ -24,7 +24,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Avisri Nandi
+ * @author Srinjoy Ghosh
  */
 public class Client_Thread extends Thread implements Serializable {
 
