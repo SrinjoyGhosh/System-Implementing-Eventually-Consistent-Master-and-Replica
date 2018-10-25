@@ -12,7 +12,7 @@ import system2506.ServerClientThread;
 
 /**
  *
- * @author Avisri Nandi
+ * @author Srinjoy Ghosh
  */
 public class MultithreadedSocketServer {
 
