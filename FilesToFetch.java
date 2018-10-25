@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author 
+ * @author Srinjoy Ghosh
  */
 public class FilesToFetch implements Serializable{
    
