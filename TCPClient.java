@@ -10,7 +10,7 @@ import java.net.Socket;
 
 /**
  *
- * @author Avisri Nandi
+ * @author Srinjoy Ghosh
  */
 public class TCPClient {
 
