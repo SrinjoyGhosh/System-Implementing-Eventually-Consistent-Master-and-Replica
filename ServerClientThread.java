@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Avisri Nandi
+ * @author Srinjoy Ghosh
 */
 
 public class ServerClientThread extends Thread implements Serializable {
