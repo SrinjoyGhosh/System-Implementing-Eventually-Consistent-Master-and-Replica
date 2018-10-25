@@ -27,7 +27,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author Avisri Nandi
+ * @author Srinjoy Ghosh
  */
 public class Server_Thread extends Thread {
 
